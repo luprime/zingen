@@ -96,6 +96,11 @@ ul[roler="list"] {
     list-style: none;
 }
 
+img {
+    max-width: 100%;
+    display: inline-block;
+}
+
 /* aqui falamos que caso o width (largura) for maior ou igual que 1280px é para mudar o tamanho de algumas variaveis */
 @media (width >= 80em) {
     :root {
