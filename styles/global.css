@@ -92,7 +92,7 @@ a:hover {
     color: transparent;
 }
 
-ul[roler="list"] {
+ul[role="list"] {
     list-style: none;
 }
 
